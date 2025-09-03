@@ -5,7 +5,7 @@
 1. [Assignment](#assignment)
 2. [Environment Setup](#environment-setup)
 3. [Grading Breakdown](#grading-breakdown)
-4. [Rules](#rules)
+4. [Rules](#rules) ok
 5. [Submission Details](#submission-details)
 6. [Large Language Model (LLM) Usage Policy](#large-language-model-llm-usage-policy)
 
